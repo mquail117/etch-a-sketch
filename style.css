@@ -1,0 +1,7 @@
+#grid-container {
+    width: 650px;
+    height: 650px;
+}
+.dark {
+    background-color:black;
+}
